@@ -7,6 +7,7 @@ public class TreeMain {
         t.addfirstnode(6);
         t.addfirstnode(7);
         t.traverse();
+        //
     }
 
 }
