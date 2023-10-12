@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class TreeNode {
     int data;
-    TreeNode next;
+    TreeNode left;
+    TreeNode right;
+    int height;
 
     public TreeNode(int data) {
         this.data = data;
